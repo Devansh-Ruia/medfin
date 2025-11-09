@@ -1,0 +1,2 @@
+cd healthcare-navigator
+npm run dev
