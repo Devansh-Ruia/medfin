@@ -1,0 +1,1 @@
+MedFin is an autonomous healthcare financial navigator system. This is a comprehensive web application that helps users navigate healthcare costs, insurance coverage, medical billing, and financial assistance options.
